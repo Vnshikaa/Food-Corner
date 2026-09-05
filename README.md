@@ -8,8 +8,6 @@ The project focuses on a clean UI, responsive layout, restaurant discovery, sear
 
 ## 🚀 Live Demo
 
-> Add your deployed project link here.
-
 **Live Website:** `https://vnshikaa.github.io/Food-Corner/`
 
 ---
