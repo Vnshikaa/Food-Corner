@@ -8,8 +8,8 @@ The project focuses on a clean UI, responsive layout, restaurant discovery, sear
 
 ## 🚀 Live Demo
 
-🌐 Visit Food Corner — Live Website
-Explore the live project here and experience the fully responsive food ordering website.
+**Live Website:** https://vnshikaa.github.io/Food-Corner/
+
 ---
 
 ## 📌 Features
